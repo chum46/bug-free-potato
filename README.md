@@ -1,6 +1,5 @@
 # Movie A Week
 ## Notes from weekly movie chats
-https://chum46.github.io/bug-free-potato/
 ---
 
 ### Round 1: June 2020
