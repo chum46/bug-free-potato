@@ -113,6 +113,10 @@ li {
   list-style: circle;
 }
 
+li {
+  padding: 10px;
+}
+
 li:first-child {
   /* list-style:  */
 }
