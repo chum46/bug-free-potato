@@ -2,8 +2,8 @@ body {
   margin:0;
   color: #fff;
   text-shadow:#000 0px 2px 1px; /* Fresh text shadow. Color, left offset, top offset, blur. */
-  font-family:Helvetica Neue, Helvetica, Arial, sans-serif; /* What font do we want? */
-  font-size:1.75em; /* 1.75 times the default size. */
+  font-family: Arial, Helvetica, sans-serif; /* What font do we want? */
+  font-size:1.25em; /* 1.75 times the default size. */
   background-color:#d05050; /* Make the background a soft red. */
 }
 
@@ -22,6 +22,10 @@ pre {
   white-space: pre;
   line-height:130%;
   margin: 10px 0;
+}
+
+h1:first-of-type {
+  text-shadow: rgba(25,25,25,0.5) 0px 2px 2px;
 }
 
 h1 {
