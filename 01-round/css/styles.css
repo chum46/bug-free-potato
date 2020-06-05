@@ -165,3 +165,11 @@ label > input[type='radio'] {
 .right {
   float:right;
 }
+
+#admin {
+  background-color: rgb(236, 235, 131);
+  color: black;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: small;
+  text-align: left;
+} 
