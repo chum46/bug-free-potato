@@ -113,8 +113,9 @@ li {
   list-style: circle;
 }
 
-li {
+button {
   padding: 10px;
+  color: rgb(170, 170, 170); 
 }
 
 li:first-child {
