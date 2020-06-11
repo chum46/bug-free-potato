@@ -4,7 +4,7 @@
 
 ### Round 1: June 2020
 * [Scott: Monty Python and the Holy Grail](./01-round/html/monty-python-holy-grail.html)
-* [Kanishka: ]()
+* [Kanishka: 13th](./02-round/html/13th.html)
 * [Ryan: ]()
 * [Brad: ]()
 * [Corey: ]()
