@@ -2,10 +2,10 @@
 ## Notes from weekly movie chats
 ---
 
-### Round 1: June 2020
+### Round 1: Summer 2020
 * [Scott: Monty Python and the Holy Grail](./01-round/html/monty-python-holy-grail.html)
 * [Kanishka: 13th](./02-round/html/13th.html)
-* [Ryan: ]()
+* [Ryan: ](https://github.com/chum46/bug-free-potato/blob/master/03-round/html/uncut-gems.html)
 * [Brad: ]()
 * [Corey: ]()
 * [Kevin: ]()
