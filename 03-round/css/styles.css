@@ -16,6 +16,9 @@ pre {
   background-color:#252525;
   color:#5f5;
   font-size: 1.6vw; /* View Width. Depends on width of browser window */
+  width: max-content;
+  width: -moz-max-content;
+  width: -webkit-max-content;
   white-space: pre;
   line-height:130%;
   margin: 10px 0;
