@@ -15,7 +15,7 @@ pre {
   padding:25px;
   background-color:#252525;
   color:#5f5;
-  font-size: 1.6vw; /* View Width. Depends on width of browser window */
+  font-size: 1.4vw; /* View Width. Depends on width of browser window */
   width: max-content;
   width: -moz-max-content;
   width: -webkit-max-content;
