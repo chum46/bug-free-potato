@@ -63,7 +63,7 @@ a {
 }
 
 button {
-  background-color: var(--accent);
+  background-color: var(--alt-color);
   color: #fff;
   padding:10px 25px;
   margin:10px;
