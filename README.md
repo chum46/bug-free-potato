@@ -7,7 +7,7 @@
 * [Kanishka: 13th](./02-round/html/13th.html)
 * [Ryan: Uncut Gems](./03-round/html/uncut-gems.html)
 * [Brad: Beautiful Day in the Neighborhood](./04-round/html/beautiful-day-in-the-neighborhood.html)
-* [Corey: ](./04-round/html/the-lobster.html)
+* [Corey: The Lobster](./05-round/html/the-lobster.html)
 * [Kevin: ]()
 * [Andy: ]()
 * [Chaminda: ]()
